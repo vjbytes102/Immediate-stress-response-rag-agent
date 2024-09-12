@@ -1,4 +1,4 @@
-# rag-agent-example
+# Immediate-stress-response-RAG-Agent
 
 ## Steps to run
 * Create embeddings using all the data available in the knowledge base:
