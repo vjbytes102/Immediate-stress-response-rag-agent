@@ -1,5 +1,4 @@
 # Conversational agent with RAG
-#https://github.com/grasool/Local-RAG-Chatbot
 from openai import OpenAI
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
